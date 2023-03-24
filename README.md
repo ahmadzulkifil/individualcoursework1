@@ -1,1 +1,1 @@
-# individualcoursework1
+# IndividualProject
