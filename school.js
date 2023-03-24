@@ -1,94 +1,93 @@
-let mySub =[
+let schools =[
 
     {
-        "id": 1001,
+        "id": 1,
         "title": "Math",
         "location":"London",
         "price": 150,
-        "image": "images/math.jpg",
-        "availableInventory": 15
+        "image": "image/math.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1002,
+        "id": 2,
         "title": "English",
         "location":"Chelsea",
         "price": 150,
-        "image": "images/eng.jpg",
-        "availableInventory": 15
+        "image": "image/eng.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1003,
+        "id": 3,
         "title": "Physics",
         "location":"Oxford",
         "price": 80,
-        "image": "images/phy.jpg",
+        "image": "image/phy.jpg",
         "availableInventory": 5
        
       }, 
       {
-        "id": 1004,
+        "id": 4,
         "title": "Music",
         "location":"New York",
         "price": 100,
-        "image": "images/music.jpg",
+        "image": "image/music.jpg",
         "availableInventory": 5
        
       }, 
       {
-        "id": 1005,
+        "id": 5,
         "title": "Web App",
         "location":"Dubai",
         "price": 150,
-        "image": "images/web.jpg",
-        "availableInventory": 15
+        "image": "image/web.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1006,
+        "id": 5,
         "title": "UI/UX",
         "location":"Sharjah",
         "price": 90,
-        "image": "images/ui.jpg",
-        "availableInventory": 10
+        "image": "image/ui.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1007,
+        "id": 7,
         "title": "Math",
         "location":"Dubai",
         "price": 90,
-        "image": "images/math.jpg",
-        "availableInventory": 6
+        "image": "image/math.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1008,
+        "id": 8,
         "title": "English",
         "location":"Doha",
         "price": 85,
-        "image": "images/eng.jpg",
-        "availableInventory": 15
+        "image": "image/eng.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1009,
+        "id": 9,
         "title": "Web App",
         "location":"London",
         "price": 100,
-        "image": "images/web.jpg",
-        "availableInventory": 5 
-        
+        "image": "image/web.jpg",
+        "availableInventory": 5
        
       }, 
       {
-        "id": 1010,
+        "id":10,
         "title": "Economics",
         "location":"New York",
         "price": 100,
-        "image": "images/econs.jpg",
-        "availableInventory": 10
+        "image": "image/econs.jpg",
+        "availableInventory": 5
        
       }, 
 ]
